@@ -1,0 +1,1 @@
+module.exports = char => 'eou' .includes(char);
